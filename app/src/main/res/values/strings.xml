@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+
+    <string name="prompt">I\'m thinking of a number between 1 and 100...</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonText">Guess</string>
+</resources>
